@@ -36,7 +36,7 @@ financeIndia = [
 sectorList = [airlines]
 URL = 'https://www.worldtradingdata.com/api/v1/stock'
 
-#key = 'myKey'
+key = 'myKey'
 
 for sector in sectorList:
     for companies in sector:
